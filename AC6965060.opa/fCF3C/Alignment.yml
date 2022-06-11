@@ -1,0 +1,16 @@
+segment_sources:
+  I52F3F0A5:
+    type: origin_type
+    relation: translation
+    language: en
+  I791757A5:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c17712b5b790436db4b9ad3b8d84a58a:
+    I52F3F0A5: f8daf5fc75ed41aea134cdaea32f4ac8
+    I791757A5: d565896430254b45ad9004027a34b4d7
+  997c523096dc4f8796ddb2f5b8a38051:
+    I52F3F0A5: 7e916f0fd5bb46fabfc744d1903889f5
+    I791757A5: 79a7b2f423b544adb976d0cacb384da4
